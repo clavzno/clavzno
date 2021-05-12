@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+i don't know how to program things besides simple python stuff
 find me on https://clavzno.neocities.org
