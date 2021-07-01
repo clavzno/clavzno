@@ -1,10 +1,8 @@
-### hey
+# what's up man
 
 <!--
 **clavzno/clavzno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,4 +14,7 @@ Here are some ideas to get you started:
 -->
 
 i don't know how to program things besides simple python stuff
-find me on https://clavzno.neocities.org
+<p> find me on https://clavzno.neocities.org </p>
+
+<p> codepen -> https://codepen.io/clavzno </p>
+<p> itch.io -> https://clavzno.itch.io/ </p>
