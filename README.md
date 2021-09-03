@@ -18,3 +18,5 @@ i don't know how to program things besides simple python stuff
 
 <p> codepen -> https://codepen.io/clavzno </p>
 <p> itch.io -> https://clavzno.itch.io/ </p>
+
+<p> thoughts and possible diary entries will be stored in this repo </p>
