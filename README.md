@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 he/him
 
-not sure what i'll be using this for yet
+not sure what i'll be using this for yet <br> </br>
 currently a computer science student major in software technology
 
 python, c
