@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-i don't know how to program things besides simple python stuff
 he/him
-<p> find me on https://clavzno.neocities.org </p>
 
-<p> codepen -> https://codepen.io/clavzno </p>
-<p> itch.io -> https://clavzno.itch.io/ </p>
+not sure what i'll be using this for yet
+currently a computer science student major in software technology
 
-<p> thoughts and possible diary entries will be stored in this repo </p>
+python, c
