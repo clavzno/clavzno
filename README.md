@@ -18,4 +18,6 @@ he/him
 not sure what i'll be using this for yet <br> </br>
 currently a computer science student major in software technology
 
-python, c
+python, c, html, css
+
+currently learning c, js
