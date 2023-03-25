@@ -1,4 +1,4 @@
-# what's up
+# what's up 
 
 <!--
 **clavzno/clavzno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-he/him
+welcome 2 my profile
 
-not sure what i'll be using this for yet <br> </br>
-currently a computer science student major in software technology (since 2022) 
+pronouns: he/him 
 
-python, c, html, css
+currently a computer sciencce major in software technology student in the philippines 
 
-currently learning c, js, python
+basic knowledge in html and css, python
+
+currently learning c
+
+future plans include java (required), relearning python
