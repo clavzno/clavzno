@@ -17,7 +17,7 @@ welcome 2 my profile
 
 pronouns: he/him 
 
-currently a computer sciencce major in software technology student in the philippines 
+currently a computer science major in software technology student in the philippines 
 
 basic knowledge in html and css, python
 
