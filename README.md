@@ -21,6 +21,6 @@ currently a computer science major in software technology student in the philipp
 
 basic knowledge in html and css, python
 
-currently learning c
+currently learning c, java
 
-future plans include java (required), relearning python
+future plans include relearning python, relearning html + css, javascript
