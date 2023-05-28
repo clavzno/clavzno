@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 
 welcome 2 my profile
 
-pronouns: he/him 
-
 currently a computer science major in software technology student in the philippines 
 
-basic knowledge in html and css, python
+basic knowledge in html and css, c
 
-currently learning c, java
+currently learning: Java
 
-future plans include relearning python, relearning html + css, javascript
+future plans include relearning python, relearning/improving html + css, javascript
