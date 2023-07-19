@@ -17,6 +17,6 @@ welcome 2 my profile
 
 currently a computer science major in software technology student in the philippines 
 
-languages: html/css, c, (currently learning:) java
+languages: html/css, c, java
 
 future plans include relearning python, relearning/improving html + css, javascript, chicken (for fun)
