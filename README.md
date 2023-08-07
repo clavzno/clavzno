@@ -13,12 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-currently a computer science major in software technology student in the philippines 
-i do digital art on the side + wish i was better at math
-neocities website is a work in progress i just got really bored one day
+## hello there
+* currently a computer science major in software technology student in the philippines 
+* i do digital art on the side + wish i was better at math
+* neocities website is a work in progress i just got really bored one day
 
-languages: html/css, c, java
+## languages i'm familiar with
+1. HTML/CSS
+2. ANSI C
+3. Java
 
-future plans include relearning python, relearning/improving html + css, javascript, chicken (for fun), i have to learn sql for class
+## languages i plan to learn 
+1. (relearn) Python
+2. JavaScript
+3. Chicken
+4. SQL
 
-going to be releasing the guides i made for my friends here soon!!! [sneak peak: starting out on github without knowing absolutely anything, java time, connecting vscode to github, live share, installing a c compiler on vscode, quick rundown of c based on my experience (prog1-2 guide)]
+## other plans
+going to be releasing the guides i made for my friends here soon!!! 
+
+[sneak peak: starting out on github without knowing absolutely anything, java time, connecting vscode to github, live share, installing a c compiler on vscode, quick rundown of c based on my experience (prog1-2 guide)]
