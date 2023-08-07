@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 
 currently a computer science major in software technology student in the philippines 
+i do digital art on the side + wish i was better at math
+neocities website is a work in progress i just got really bored one day
 
 languages: html/css, c, java
 
 future plans include relearning python, relearning/improving html + css, javascript, chicken (for fun), i have to learn sql for class
+
+going to be releasing the guides i made for my friends here soon!!! [sneak peak: starting out on github without knowing absolutely anything, java time, connecting vscode to github, live share, installing a c compiler on vscode, quick rundown of c based on my experience (prog1-2 guide)]
