@@ -1,33 +1,19 @@
 # what's up :^)
 
-<!--
-**clavzno/clavzno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## hello there
 * currently a computer science major in software technology student in the philippines 
 * i do digital art on the side + wish i was better at math
-* neocities website is a work in progress i just got really bored one day
+* neocities website is a work in progress! i just made it because l1nktr33 was blocked in the ph
 
 ## languages i'm familiar with
-1. HTML/CSS
+1. HTML/CSS + SOMEWHAT JAVASCRIPT
 2. ANSI C
 3. Java
+4. SQL
 
 ## languages i plan to learn 
 1. (relearn) Python
-2. JavaScript
-3. Chicken
-4. SQL
+2. Chicken
 
 ## other plans
 going to be releasing the guides i made for my friends here soon!!! 
