@@ -1,6 +1,6 @@
 # what's up :^)
 #### ❓ About me
-My name is Jack! I'm a second year student in Bachelor of Science Major in Software Technology (ID 122)
+My name is Jack! I'm a third year student in Bachelor of Science Major in Software Technology also Minor in Game Design! (ID 122)
 
 I'm a digital artist (comics, cartoons, abstract art) and do non-musical theatre on the side (you can find more about me on my neocities website)
 
@@ -21,15 +21,20 @@ Previous Materials: Notion, Microsoft Onenote, Firealapaca/Medibang
 
 #### 🤯 Languages I'm familiar with
 1. Python (SHS EMPTECH)
-2. HTML/CSS + somewhat Javascript
+2. HTML/CSS + JavaScript (CCAPDEV, CSSWENG)
 3. ANSI C (CCPROG1-2)
 4. Java (CCPROG3)
 5. SQL (CCINFOM)
+6. Ruby (CSADPRG)
+
+#### Languages I had to dabble in for school or other purposes
+1. Go, Kotlin, R (CSADPRG)
+2. Lua (Had a very short Roblox phase)
+3. Assembly (CSARCH2/LBYARCH)
 
 #### 🧠 Other things I plan to Learn
 1. (relearn) Python
 2. Chicken (because I hate myself)
-3. Node.js (trying to work on a discord bot)
 
 #### 🫠 Other plans
 1. going to be releasing the guides i made for my friends here soon!!! [sneak peak: starting out on github without knowing absolutely anything, java time, connecting vscode to github, live share, installing a c compiler on vscode, quick rundown of c based on my experience (prog1-2 guide)]
