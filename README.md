@@ -18,7 +18,7 @@ I didn't take STEM (Science, technology, engineering, and mathematics) in senior
 * Previous Materials 🫡: Notion, Microsoft Onenote, Firealapaca/Medibang
 
 #### 🤯 Languages I'm familiar with
-1. Python (SHS EMPTECH)
+1. Python (SHS EMPTECH, STINTSY)
 2. HTML/CSS + JavaScript (CCAPDEV, CSSWENG)
 3. ANSI C (CCPROG1-2)
 4. Java (CCPROG3)
