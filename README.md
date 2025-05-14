@@ -7,17 +7,18 @@ My name is Jack! I'm a third year student in Bachelor of Science Major in Softwa
 * **Art Commissions, etc.** [Commissions Page + Portfolio](https://clavzno.notion.site/clavzno/dudesync-commission-page-e260f23688364250a92a3f9e16dbf119)
 * **LinkedIn** [https://www.linkedin.com/in/clavano-at/](https://www.linkedin.com/in/clavano-at/) 
 * 🆕 **View my Obsidian Notes** [https://jacks-notes.vercel.app/](https://jacks-notes.vercel.app/) [Work in progress]
+* 🆕 **Personal Projects Website** [https://clavzno.github.io](https://clavzno.github.io) [Work in progress]
 
-#### Org Stuff
-* Arts Staffer @ Malate Literary Folio DLSU
-* Communications/Creative Designer @ Google Developer Student Clubs DLSU
+#### Orgs
+* 🎨Arts Staffer @ Malate Literary Folio DLSU
+* 🖼️ Communications/Creative Designer @ Google Developer Student Clubs DLSU
 
 #### Work and Art Materials/Software
 * **Obsidian.md** for school and work notes
 * **Goodnotes 6** for specific handwritten school notes (like math)
-* **Procreate** for digital art and drawing requirements on my iPad
+* **Procreate** for digital art and drawing requirements
 * **Adobe Photoshop** for digital art and photo edits on my laptop
-* Previous Materials 🫡: Notion, Microsoft Onenote, Firealapaca/Medibang
+* Previous Materials 🫡: Notion (since 2020), Microsoft Onenote, Firealapaca/Medibang, GIMP
 
 #### Languages I'm familiar with
 1. Python (SHS EMPTECH, STINTSY, CSMODEL)
