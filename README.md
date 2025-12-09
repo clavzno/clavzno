@@ -24,7 +24,7 @@ My name is Jack! I'm a 4th year student in Bachelor of Science Major in Software
 #### Languages I'm familiar with
 1. Python (SHS EMPTECH, STINTSY, CSMODEL)
 2. HTML/CSS + JavaScript (CCAPDEV, CSSWENG)
-3. C/C++ (CCPROG1-2, CSOPESY)
+3. C/C++ (CCPROG1-2, CSOPESY, IEDESGN/Game Development)
 4. Java (CCPROG3)
 5. SQL (CCINFOM)
 6. Ruby (CSADPRG)
