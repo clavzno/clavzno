@@ -1,6 +1,6 @@
 # what's up :^)
 #### About me
-My name is Jack! I'm a 4th year student in Bachelor of Science Major in Software Technology also Minor in Game Design! (ID 122) 
+My name is Jack! I'm a 5th 😅 year student in Bachelor of Science Major in Software Technology also Minor in Game Design! (ID 122) 
 
 #### 🕵️ Where to find me?
 * **Upwork** [Upwork Profile](https://www.upwork.com/freelancers/~01353383d437b0b7db)
