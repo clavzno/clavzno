@@ -1,34 +1,42 @@
-# what's up :^)
-#### About me
-My name is Jack! I'm a 5th 😅 year student in Bachelor of Science Major in Software Technology also Minor in Game Design! (ID 122) 
+# clavzno/clavzno :^v
 
-#### 🕵️ Where to find me?
-* **Upwork** [Upwork Profile](https://www.upwork.com/freelancers/~01353383d437b0b7db)
-* **LinkedIn** [https://www.linkedin.com/in/clavano-at/](https://www.linkedin.com/in/clavano-at/) 
-* 🆕 **View my Obsidian Notes!** [https://jacks-notes.vercel.app/](https://jacks-notes.vercel.app/) [Work in progress]
-* 🆕 **Personal Projects, Artworks, & Portfolio** [https://clavzno.vercel.app/](https://clavzno.vercel.app) also [Work in progress]
+### ❔ About me
+- Jack (he/him)
+- De la Salle University CCS ID 122
+- BS Computer Science Major in Software Technology Minor in Game Design
+- Interested in full-stack web development (leaning towards frontend), machine learning
 
-#### Orgs
-* 🎨 Arts Staffer @ Malate Literary Folio DLSU
-* 🤯 Tutor & Vice President of Creatives @ Peer Tutors Society
-* 🖼️ Head of Creatives @ Google Developer Student Clubs DLSU
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01353383d437b0b7db)
+[![jacks-notes](https://img.shields.io/badge/jacks--notes-181717?style=flat&logo=markdown&logoColor=white)](https://jacks-notes.vercel.app/)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://clavzno.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clavano-at/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:at.clavano@gmail.com)
 
-#### Work and Art Materials/Software
-* **Obsidian.md** for school and work notes
-* **Goodnotes 6** for handwritten notes
-* **Krita** for digital art 
-* **Adobe Photoshop**, **Canva**, and **Affinity** for digital art, photo editing, and/or publications
-* Previous Materials: Notion (since 2020), Microsoft Onenote, Firealapaca/Medibang, GIMP, Procreate
+### 👥 Orgs
+- **Arts Staffer** @ Malate Literary Folio DLSU (MLF)
+- **Tutor & Vice President of Creatives** @ Peer Tutors Society (PTS)
+- **Head of Creatives** @ Google Developer Groups on Campus DLSU Chapter (GDGoC)
 
-#### Languages I'm familiar with
-1. Python (SHS EMPTECH, CSMODEL, STINTSY, NLP1000)
-2. HTML/CSS + JavaScript (CCAPDEV, CSSWENG)
-3. C/C++/C# (CCPROG1-2, CSOPESY, IEDESGN/Game Development)
-4. Java (CCPROG3)
-5. SQL (CCINFOM)
-6. Ruby (CSADPRG)
+### 🤑 Holy Trinity
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-#### Languages I had to dabble in for school or other purposes
-1. Go, Kotlin, R (CSADPRG)
-2. Lua (Had a Roblox dev phase)
-3. x86-64 Assembly (CSARCH2/LBYARCH; NASM)
+### ⚙️ Tools
+- Obsidian
+- Figma
+- MongoDB, Supabase, Firebase, Docker
+- Goodnotes 6 (handwritten notes, math)
+- Krita, Adobe Photoshop, Canva, Affinity
+- Previous: Notion (2020{), Microsoft OneNote, Firealpaca, Medibang, GIMP, Procreate
+
+### 💻 Languages
+- Python (SHS, CSMODEL, STINTSY, NLP1000, CSALGCM, CSNETWK)
+- HTML/CSS + Javascript/Typescript (CCAPDEV, CSSWENG, CSSECDV, STSWENG)
+- C/C++/C# (CCPROG1-2, CSOPESY, game development)
+- Java (CCPROG3, CSALGCM)
+- x86-64 Assembly (CSARCH2/LBYARCH; NASM)
+- SQL (CCINFOM, STADVDB)
+- Ruby (CSADPRG)
+- Go, Kotlin, R (CSADPRG)
+- Lua (Had a Roblox dev phase)
